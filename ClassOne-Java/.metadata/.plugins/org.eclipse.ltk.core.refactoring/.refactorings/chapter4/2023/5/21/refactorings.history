@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;chapter4/src/lesson20&apos;&#x0D;&#x0A;- Original project: &apos;chapter4&apos;&#x0D;&#x0A;- Destination element: &apos;chapter4/src/lesson20&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     lesson18.chap4_2.java&#x0D;&#x0A;     lesson18.MyClass.java&#x0D;&#x0A;     lesson18.chap4_3.java&#x0D;&#x0A;     lesson18.chap4_4.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;lesson20" element1="/src&lt;lesson18{chap4_2.java" element2="/src&lt;lesson18{MyClass.java" element3="/src&lt;lesson18{chap4_3.java" element4="/src&lt;lesson18{chap4_4.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685020881331" units="4" version="1.0"/>
+</session>
