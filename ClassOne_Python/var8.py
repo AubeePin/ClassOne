@@ -1,2 +1,2 @@
 a="100"
-print(a+23)
+print(int(a)+23)
